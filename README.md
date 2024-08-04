@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I’m ColdSnaap! 👋
 
 <!--
 **ColdSnaap/ColdSnaap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I hold a PhD in Physics and have recently discovered my passion for coding and machine learning.
